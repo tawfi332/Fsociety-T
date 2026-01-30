@@ -1,0 +1,6 @@
+
+{
+  "name": "Fsociety-Speaker",
+  "description": "Minimalist English speaking mentor with real-time corrections and business mindset coaching.",
+  "requestFramePermissions": ["microphone"]
+}
